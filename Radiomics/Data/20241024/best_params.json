@@ -1,0 +1,20 @@
+{
+    "train_params": {
+        "eta": 0.26868703324123455,
+        "min_child_weight": 7,
+        "max_depth": 3,
+        "gamma": 0.9589389229642257,
+        "subsample": 0.8149468924263406,
+        "colsample_bytree": 0.3741588544671587,
+        "learning_rate": 0.49958401348284553,
+        "alpha": 0.6369482898545432,
+        "lambda": 0.5072717424272755,
+        "scale_pos_weight": 0.7719697600451517,
+        "objective": "binary:logistic",
+        "eval_metric": [
+            "auc",
+            "logloss"
+        ]
+    },
+    "num_boost_round": 6014
+}
