@@ -155,7 +155,7 @@ BSTNet model demonstrated robust performance across multiple independent validat
   * Grad-CAM activation mapping visualized regions contributing most to predictions
   * pCR and non-pCR cases exhibited different activation patterns: centralized activation patterns in pCR cases versus peripheral activation in non-pCR cases
 
-## **Notice:**This version is a simplified version and the official version will be announced after its release.
+## Notice:This version is a simplified version and the official version will be announced after its release.
 
 ## Citation
 
